@@ -1,5 +1,7 @@
 package com.zzj.solution.medium.addTwoNumbers;
 
+import com.zzj.solution.dataStructure.ListNode;
+
 /**
  * @author zengzhongjie
  * @date 2020/11/12
