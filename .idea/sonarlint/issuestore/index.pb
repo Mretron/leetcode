@@ -1,8 +1,6 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-q
-Asrc/main/java/com/zzj/solution/medium/addTwoNumbers/ListNode.java,a/1/a1bfa7e569b9c14c17d35d3d1c82458aab703e37
 m
 =src/main/java/com/zzj/solution/medium/addTwoNumbers/Main.java,d/8/d84687699dc850ea023dd717ecea856d631e610f
 q
@@ -15,3 +13,15 @@ h
 8src/main/java/com/zzj/solution/easy/twoSum/Solution.java,a/f/af89303db3265d72f21e36cf613dca3acdd0c56e
 d
 4src/main/java/com/zzj/solution/easy/twoSum/Main.java,e/7/e75ce0b71b6139ae337dbec561315aab5623dddd
+j
+:src/main/java/com/zzj/solution/dataStructure/ListNode.java,0/2/028e3c430268cacf41e0b1b1c5d77031c2e8c848
+n
+>src/main/java/com/zzj/solution/easy/palindromeNumber/Main.java,8/f/8f00be832987406d0a91af386b440ba550331f00
+u
+Esrc/main/java/com/zzj/solution/easy/mergeTwoSortedLists/Solution.java,1/5/154f2064d740238e4e20163c3bf57214985080ca
+a
+1src/main/java/com/zzj/solution/util/ListUtil.java,f/8/f815efb2152c09571c210c9fdb121a84e55ae0f9
+q
+Asrc/main/java/com/zzj/solution/easy/mergeTwoSortedLists/Main.java,7/6/7654004d4a821e6ac32ce7aa56cef0bbc8a526cb
+r
+Bsrc/main/java/com/zzj/solution/easy/palindromeNumber/Solution.java,f/2/f248d016bcdf374da74222e5a6b7298b84ab904c

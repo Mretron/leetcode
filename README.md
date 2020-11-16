@@ -8,3 +8,4 @@
 2020.11.13| [整数反转](https://leetcode-cn.com/problems/reverse-integer/)
 2020.11.14| [回文数](https://leetcode-cn.com/problems/palindrome-number/)
 2020.11.15| [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+2020.11.16| [移除元素](https://leetcode-cn.com/problems/remove-element/)
