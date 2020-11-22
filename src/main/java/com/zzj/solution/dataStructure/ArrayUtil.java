@@ -6,6 +6,19 @@ package com.zzj.solution.dataStructure;
  */
 public class ArrayUtil {
 
+    /**
+     * 返回1...n的数组
+     * @param range
+     * @return
+     */
+    public static int[] getSimpleArray(int range) {
+        int[] data = new int[range];
+        for(int i = 0; i < range; i++) {
+            data[i] = i + 1;
+        }
+        return data;
+    }
+
     public static void printArray(int[] nums) {
         printArrayByStartIndex(nums, 0);
     }
