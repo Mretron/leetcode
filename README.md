@@ -12,4 +12,4 @@
 2020.11.17| [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) |2020.11.27|[移动零](https://leetcode-cn.com/problems/move-zeroes/)
 2020.11.18| [加一](https://leetcode-cn.com/problems/plus-one/) |2020.11.28|[二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)
 2020.11.19| [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |2020.11.29|[从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
-2020.11.20| [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) |2020.11.30|
+2020.11.20| [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) |2020.11.30|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)
